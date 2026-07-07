@@ -1,4 +1,4 @@
-Software archetecture:
+Software architecture:
 
 1. Phone handles position and long range ball detection.
 2. Rasberry Pi 4 handles close range ball detection (0-20cm) and FSM communicating to both phone and ESP's
